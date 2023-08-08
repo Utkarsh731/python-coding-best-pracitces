@@ -1,2 +1,1 @@
-# python-coding-best-pracitces
-Python coding best practices Examples 
+Python is a powerful and popular programming language known for its simplicity and readability. To make the most out of Python’s capabilities, it’s crucial to follow best coding practices. Writing clean, efficient, and maintainable code not only enhances the readability but also reduces bugs and makes collaboration with other developers easier.
